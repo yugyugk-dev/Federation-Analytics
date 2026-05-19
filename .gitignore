@@ -1,0 +1,7 @@
+pdfs/
+drafts/
+__pycache__/
+*.pyc
+*.log
+*.db
+.DS_Store
